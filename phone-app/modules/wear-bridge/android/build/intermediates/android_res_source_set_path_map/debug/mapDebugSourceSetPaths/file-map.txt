@@ -1,0 +1,9 @@
+expo.modules.wearbridge.wear-bridge-pngs-0 C:\Users\david\Desktop\ventas-ambulante\phone-app\modules\wear-bridge\android\build\generated\res\pngs\debug
+expo.modules.wearbridge.wear-bridge-updated_navigation_xml-1 C:\Users\david\Desktop\ventas-ambulante\phone-app\modules\wear-bridge\android\build\generated\updated_navigation_xml\debug
+expo.modules.wearbridge.wear-bridge-mergeDebugResources-2 C:\Users\david\Desktop\ventas-ambulante\phone-app\modules\wear-bridge\android\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+expo.modules.wearbridge.wear-bridge-mergeDebugResources-3 C:\Users\david\Desktop\ventas-ambulante\phone-app\modules\wear-bridge\android\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+expo.modules.wearbridge.wear-bridge-debug-4 C:\Users\david\Desktop\ventas-ambulante\phone-app\modules\wear-bridge\android\build\intermediates\merged_res\debug\mergeDebugResources
+expo.modules.wearbridge.wear-bridge-debug-5 C:\Users\david\Desktop\ventas-ambulante\phone-app\modules\wear-bridge\android\build\intermediates\packaged_res\debug\packageDebugResources
+expo.modules.wearbridge.wear-bridge-debug-6 C:\Users\david\Desktop\ventas-ambulante\phone-app\modules\wear-bridge\android\src\debug\res
+expo.modules.wearbridge.wear-bridge-main-7 C:\Users\david\Desktop\ventas-ambulante\phone-app\modules\wear-bridge\android\src\main\res
+gradleHome-0 C:\Users\david\.gradle
